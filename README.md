@@ -5,7 +5,7 @@
 
 ## 🍗 About Me
 
-- 📚 I’m currently learning **Deep Learning and Neural Networks, Machine Learning, NoSQL, Advanced Database Management and Python for Data Analysis**. So watch out for upcoming projects publications !
+- 📚 I’m currently an Engineering student in Datascience & IA at ESILV, during my courses I have learned **Deep Learning, Neural Networks, Machine Learning, NoSQL, Advanced Database Management and Python for Data Analysis**. 
 
 - :computer:👀 I’m looking for an **Internship of 4 or 5 months** in the DataScience or DataEngineering field, starting April 4th 2022.
 
@@ -14,6 +14,13 @@
 - 📫 How to reach me: joshua.jeyaratnam@gmail.com 
 
 <br>
+
+## :pencil: Theorical skills
+- :bar_chart: Statistics, Machine Learning, Deep Learning
+- Algebra
+- Reduction of endomorphisms
+- Integral Calculus
+- Fluid mechanics
 
 ## :hammer_and_wrench: Languages and Tools
 
