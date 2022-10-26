@@ -16,11 +16,19 @@
 <br>
 
 ## :pencil: Theorical skills
-- :bar_chart: Statistics, Machine Learning, Deep Learning
-- Algebra
+- :bar_chart: Statistics , Theory of Probability
+- Machine Learning (Theory of Machine Learning, Applied Machine Learning, Tensorflow, Pytorch, Scikit-learn)
+- Deep Learning (Theory of Neural Networks, Pytorch, Tensorflow)
+- Database Management (SQL, NoSQL)
+- Data Mining 
+- POO (C#, WPF) 
+- Algebra 
 - Reduction of endomorphisms
 - Integral Calculus
+- Optimization
 - Fluid mechanics
+- AI+X
+- Astrophysics
 
 ## :hammer_and_wrench: Languages and Tools
 
